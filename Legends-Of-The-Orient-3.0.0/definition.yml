@@ -1,0 +1,12 @@
+name: Legends-Of-The-Orient
+display-name: Legenden des Orients
+author: Crusader Pilaw
+version: 3.0.0
+dependencies:
+  Legends-Of-The-Orient-AI: ^3.0.0
+  framework: ">=3.0.1"
+  frontend: ">=1.0.2"
+  ucp2-legacy: ^2.15.1
+  startResources: ^1.0.0
+  maploader: ^1.0.0
+type: plugin

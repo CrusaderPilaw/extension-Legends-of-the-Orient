@@ -9,6 +9,7 @@ config-sparse:
                 - name: LDO-Ratte
                   root: ucp/plugins/Legends-Of-The-Orient-AI/resources/ai/Ratte/
                   control:
+                    lines: true
                     aic: true
                     aiv: true
                     lord: true
@@ -17,6 +18,7 @@ config-sparse:
                 - name: LDO-Schlange
                   root: ucp/plugins/Legends-Of-The-Orient-AI/resources/ai/Schlange/
                   control:
+                    lines: true
                     aic: true
                     aiv: true
                     lord: true
@@ -25,6 +27,7 @@ config-sparse:
                 - name: LDO-Schwein
                   root: ucp/plugins/Legends-Of-The-Orient-AI/resources/ai/Schwein/
                   control:
+                    lines: true
                     aic: true
                     aiv: true
                     lord: true
@@ -33,6 +36,7 @@ config-sparse:
                 - name: LDO-Wolf
                   root: ucp/plugins/Legends-Of-The-Orient-AI/resources/ai/Wolf/
                   control:
+                    lines: true
                     aic: true
                     aiv: true
                     lord: true
@@ -41,6 +45,7 @@ config-sparse:
                 - name: LDO-Saladin
                   root: ucp/plugins/Legends-Of-The-Orient-AI/resources/ai/Saladin/
                   control:
+                    lines: true
                     aic: true
                     aiv: true
                     lord: true
@@ -49,6 +54,7 @@ config-sparse:
                 - name: LDO-Kalif
                   root: ucp/plugins/Legends-Of-The-Orient-AI/resources/ai/Kalif/
                   control:
+                    lines: true
                     aic: true
                     aiv: true
                     lord: true
@@ -57,6 +63,7 @@ config-sparse:
                 - name: LDO-Sultan
                   root: ucp/plugins/Legends-Of-The-Orient-AI/resources/ai/Sultan/
                   control:
+                    lines: true
                     aic: true
                     aiv: true
                     lord: true
@@ -194,6 +201,12 @@ config-sparse:
                   name: LDO-Ratte
                   root: ucp/plugins/Legends-Of-The-Orient-AI/resources/ai/Ratte/
                   active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: LDO-Ratte
+                  root: ucp/plugins/Legends-Of-The-Orient-AI/resources/ai/Ratte/
+                  active: true
           snake:
             aic:
               contents:
@@ -214,6 +227,12 @@ config-sparse:
                   root: ucp/plugins/Legends-Of-The-Orient-AI/resources/ai/Schlange/
                   active: true
             startTroops:
+              contents:
+                suggested-value:
+                  name: LDO-Schlange
+                  root: ucp/plugins/Legends-Of-The-Orient-AI/resources/ai/Schlange/
+                  active: true
+            lines:
               contents:
                 suggested-value:
                   name: LDO-Schlange
@@ -244,6 +263,12 @@ config-sparse:
                   name: LDO-Schwein
                   root: ucp/plugins/Legends-Of-The-Orient-AI/resources/ai/Schwein/
                   active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: LDO-Schwein
+                  root: ucp/plugins/Legends-Of-The-Orient-AI/resources/ai/Schwein/
+                  active: true
           wolf:
             aic:
               contents:
@@ -264,6 +289,12 @@ config-sparse:
                   root: ucp/plugins/Legends-Of-The-Orient-AI/resources/ai/Wolf/
                   active: true
             startTroops:
+              contents:
+                suggested-value:
+                  name: LDO-Wolf
+                  root: ucp/plugins/Legends-Of-The-Orient-AI/resources/ai/Wolf/
+                  active: true
+            lines:
               contents:
                 suggested-value:
                   name: LDO-Wolf
@@ -294,6 +325,12 @@ config-sparse:
                   name: LDO-Saladin
                   root: ucp/plugins/Legends-Of-The-Orient-AI/resources/ai/Saladin/
                   active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: LDO-Saladin
+                  root: ucp/plugins/Legends-Of-The-Orient-AI/resources/ai/Saladin/
+                  active: true
           caliph:
             aic:
               contents:
@@ -319,6 +356,12 @@ config-sparse:
                   name: LDO-Kalif
                   root: ucp/plugins/Legends-Of-The-Orient-AI/resources/ai/Kalif/
                   active: true
+            lines:
+              contents:
+                suggested-value:
+                  name: LDO-Kalif
+                  root: ucp/plugins/Legends-Of-The-Orient-AI/resources/ai/Kalif/
+                  active: true
           sultan:
             aic:
               contents:
@@ -339,6 +382,12 @@ config-sparse:
                   root: ucp/plugins/Legends-Of-The-Orient-AI/resources/ai/Sultan/
                   active: true
             startTroops:
+              contents:
+                suggested-value:
+                  name: LDO-Sultan
+                  root: ucp/plugins/Legends-Of-The-Orient-AI/resources/ai/Sultan/
+                  active: true
+            lines:
               contents:
                 suggested-value:
                   name: LDO-Sultan
@@ -1128,6 +1177,8 @@ config-sparse:
         extra-map-extreme-directory:
           contents:
             suggested-value: ucp/plugins/Legends-Of-The-Orient-*/resources/maps
+    graphicsApiReplacer:
+      config: {}
   plugins:
     Legends-Of-The-Orient-AI:
       config: {}

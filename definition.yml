@@ -1,8 +1,9 @@
 name: Legends-Of-The-Orient
 display-name: Legends Of The Orient
 author: Crusader Pilaw
-version: 3.0.1
+version: 3.0.2
 dependencies:
+  running-units: "^1.0.1"
   Legends-Of-The-Orient-AI: ^3.0.0
   framework: ">=3.0.1"
   frontend: ">=1.0.2"

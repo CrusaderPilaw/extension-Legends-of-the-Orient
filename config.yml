@@ -1,5 +1,27 @@
 config-sparse:
   modules:
+    running-units:
+      config:
+        macemen:
+          running:
+            general:
+              contents:
+                suggested-value: true
+        slingers:
+          running:
+            general:
+              contents:
+                suggested-value: true
+        slaves:
+          running:
+            general:
+              contents:
+                suggested-value: true
+        spearmen:
+          running:
+            general:
+              contents:
+                suggested-value: true
     aiSwapper:
       config:
         menu:
@@ -1045,104 +1067,104 @@ config-sparse:
             majorHumanAdvantage:
               human:
                 contents:
-                  suggested-value: 5000
+                  suggested-value: 8000
               computer:
                 contents:
-                  suggested-value: 3000
+                  suggested-value: 2000
             minorHumanAdvantage:
               human:
                 contents:
-                  suggested-value: 3000
+                  suggested-value: 4000
               computer:
                 contents:
-                  suggested-value: 3000
+                  suggested-value: 2000
             noAdvantage:
               human:
                 contents:
                   suggested-value: 2000
               computer:
                 contents:
-                  suggested-value: 3000
+                  suggested-value: 2000
             minorComputerAdvantage:
               human:
                 contents:
-                  suggested-value: 2000
+                  suggested-value: 4000
             majorComputerAdvantage:
               computer:
                 contents:
-                  suggested-value: 7000
+                  suggested-value: 8000
           crusader:
             majorHumanAdvantage:
               human:
                 contents:
-                  suggested-value: 3000
+                  suggested-value: 8000
               computer:
                 contents:
                   suggested-value: 4000
             minorHumanAdvantage:
               human:
                 contents:
+                  suggested-value: 4000
+              computer:
+                contents:
+                  suggested-value: 2000
+            noAdvantage:
+              human:
+                contents:
+                  suggested-value: 2000
+              computer:
+                contents:
+                  suggested-value: 2000
+            minorComputerAdvantage:
+              human:
+                contents:
                   suggested-value: 2000
               computer:
                 contents:
                   suggested-value: 4000
-            noAdvantage:
-              human:
-                contents:
-                  suggested-value: 1000
-              computer:
-                contents:
-                  suggested-value: 4000
-            minorComputerAdvantage:
-              human:
-                contents:
-                  suggested-value: 1000
-              computer:
-                contents:
-                  suggested-value: 5000
             majorComputerAdvantage:
               human:
                 contents:
-                  suggested-value: 1000
+                  suggested-value: 2000
               computer:
                 contents:
-                  suggested-value: 7000
+                  suggested-value: 8000
           deathmatch:
             majorHumanAdvantage:
               human:
                 contents:
-                  suggested-value: 2000
+                  suggested-value: 40000
               computer:
                 contents:
-                  suggested-value: 5000
+                  suggested-value: 3000
             minorHumanAdvantage:
               human:
                 contents:
-                  suggested-value: 1000
-              computer:
-                contents:
-                  suggested-value: 5000
-            noAdvantage:
-              human:
-                contents:
-                  suggested-value: 500
-              computer:
-                contents:
-                  suggested-value: 5000
-            minorComputerAdvantage:
-              human:
-                contents:
-                  suggested-value: 500
+                  suggested-value: 20000
               computer:
                 contents:
                   suggested-value: 7000
-            majorComputerAdvantage:
+            noAdvantage:
               human:
                 contents:
-                  suggested-value: 500
+                  suggested-value: 10000
               computer:
                 contents:
                   suggested-value: 10000
+            minorComputerAdvantage:
+              human:
+                contents:
+                  suggested-value: 7000
+              computer:
+                contents:
+                  suggested-value: 20000
+            majorComputerAdvantage:
+              human:
+                contents:
+                  suggested-value: 3000
+              computer:
+                contents:
+                  suggested-value: 40000
         startGoods:
           deathmatch:
             wood:

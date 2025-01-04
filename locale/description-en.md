@@ -16,12 +16,10 @@ Otherwise, check out the Preview parchment below!
   
 ### My own AIs are voiced by professional voice actors.
 In my opinion, the main strength of the base game has always been the characters of the AIs, presented primarily through their messages. That's why I didn't hold back and hired professional voice actors on Fiverr to voice all my AIs, ensuring they are on par with the vanilla ones!
-  
-Everything regarding my mods can be found on my  [Github](https://github.com/CrusaderPilaw)!  
-If you have any feedback or spot mistakes in the setup, please let me know in the issues over there!
+
 
 # AI Preview: Meet the new characters
-[!Image](https://raw.githubusercontent.com/CrusaderPilaw/extension-Legends-of-the-Orient/71968dbc4be31718fa4740311740e04a3ff7c089/locale/Legends_Of_The_Orient.png) 
+![image](https://raw.githubusercontent.com/CrusaderPilaw/extension-Legends-of-the-Orient/71968dbc4be31718fa4740311740e04a3ff7c089/locale/Legends_Of_The_Orient.png) 
 
 If you want to spice up your first encounter with my new AIs you can challenge them at their prime: My homeland maps are designed to create the perfect surroundings for each of my AIs.
 They offer just the right amount of resources as well as some neat little surprises regarding landscape, secret routes and other, more general AI behaviour. 
@@ -35,56 +33,56 @@ If you happen to stumble upon any bugs or weird AI behaviour, feel free to conta
 
 
 ### Rat and Inquisitor
-*Rat: Tier 1 Lord*
-*Inquisitor: Tier 4 Lord*
-Homeland: The Ravine *(Die Klamm)*
-[!Image](https://raw.githubusercontent.com/CrusaderPilaw/extension-Legends-of-the-Orient/4f4b0a8adc823919ca237380df1f4528bd864f43/locale/Heimatland_Die_Klamm.png)
+*Rat: Tier 1 Lord*  
+*Inquisitor: Tier 4 Lord*  
+Homeland: The Ravine *(Die Klamm)*  
+![image](https://raw.githubusercontent.com/CrusaderPilaw/extension-Legends-of-the-Orient/4f4b0a8adc823919ca237380df1f4528bd864f43/locale/Heimatland_Die_Klamm.png)
 
 
 ### Snake and Snail
-*Snake: Tier 2 Lord*
-*Snail: Tier 2 Lady*
-Homeland: The Archipelago *(Der Archipel)*
-[!Image](https://raw.githubusercontent.com/CrusaderPilaw/extension-Legends-of-the-Orient/4f4b0a8adc823919ca237380df1f4528bd864f43/locale/Heimatland_Der_Archipel.png)
+*Snake: Tier 2 Lord*  
+*Snail: Tier 2 Lady*  
+Homeland: The Archipelago *(Der Archipel)*  
+![image](https://raw.githubusercontent.com/CrusaderPilaw/extension-Legends-of-the-Orient/4f4b0a8adc823919ca237380df1f4528bd864f43/locale/Heimatland_Der_Archipel.png)
 
 
 ### Pig and Robber Baron
-*Pig: Tier 3 Lord*
-*Robber Baron: Tier 1 Lord*
-Homeland: The Canyon *(Die Schlucht)*
-[!Image](https://raw.githubusercontent.com/CrusaderPilaw/extension-Legends-of-the-Orient/4f4b0a8adc823919ca237380df1f4528bd864f43/locale/Heimatland_Die_Schlucht.png)
+*Pig: Tier 3 Lord*  
+*Robber Baron: Tier 1 Lord*  
+Homeland: The Canyon *(Die Schlucht)*  
+![image](https://raw.githubusercontent.com/CrusaderPilaw/extension-Legends-of-the-Orient/4f4b0a8adc823919ca237380df1f4528bd864f43/locale/Heimatland_Die_Schlucht.png)
 
 
 ### Wolf and Bear
-*Wolf: Tier 4 Lord*
-*Bear: Tier 4 Lord*
-Homeland: The Plains *(Die Ebenen)*
-[!Image](https://raw.githubusercontent.com/CrusaderPilaw/extension-Legends-of-the-Orient/4f4b0a8adc823919ca237380df1f4528bd864f43/locale/Heimatland_Die_Ebenen.png)
+*Wolf: Tier 4 Lord*  
+*Bear: Tier 4 Lord*  
+Homeland: The Plains *(Die Ebenen)*  
+![image](https://raw.githubusercontent.com/CrusaderPilaw/extension-Legends-of-the-Orient/4f4b0a8adc823919ca237380df1f4528bd864f43/locale/Heimatland_Die_Ebenen.png)
 
 
 ### Sultan and Efendi
-*Sultan: Tier 1 Lord*
-*Efendi: Tier 2 Lord*
-Homeland: The Outpost *(Der Außenposten)*
-[!Image](https://raw.githubusercontent.com/CrusaderPilaw/extension-Legends-of-the-Orient/4f4b0a8adc823919ca237380df1f4528bd864f43/locale/Heimatland_Der_Au%C3%9Fenposten.png)
+*Sultan: Tier 1 Lord*  
+*Efendi: Tier 2 Lord*  
+Homeland: The Outpost *(Der Außenposten)*  
+![image](https://raw.githubusercontent.com/CrusaderPilaw/extension-Legends-of-the-Orient/4f4b0a8adc823919ca237380df1f4528bd864f43/locale/Heimatland_Der_Au%C3%9Fenposten.png)
 
 
 ### Caliph and Scorpion
-*Caliph: Tier 2 Lord*
-*Scorpion: Tier 1 Lord*
-Homeland: The Trench *(Der Graben)*
-[!Image](https://raw.githubusercontent.com/CrusaderPilaw/extension-Legends-of-the-Orient/4f4b0a8adc823919ca237380df1f4528bd864f43/locale/Heimatland_Der_Graben.png)
+*Caliph: Tier 2 Lord*  
+*Scorpion: Tier 1 Lord*  
+Homeland: The Trench *(Der Graben)*  
+![image](https://raw.githubusercontent.com/CrusaderPilaw/extension-Legends-of-the-Orient/4f4b0a8adc823919ca237380df1f4528bd864f43/locale/Heimatland_Der_Graben.png)
 
 
 ### Lionheart and Emira
-*Lionheart: Tier 3 Lord*
-*Emira: Tier 3 Lady*
-Homeland: The Ford *(Die Furt)*
-[!Image](https://raw.githubusercontent.com/CrusaderPilaw/extension-Legends-of-the-Orient/4f4b0a8adc823919ca237380df1f4528bd864f43/locale/Heimatland_Die_Furt.png)
+*Lionheart: Tier 3 Lord*  
+*Emira: Tier 3 Lady*  
+Homeland: The Ford *(Die Furt)*  
+![image](https://raw.githubusercontent.com/CrusaderPilaw/extension-Legends-of-the-Orient/4f4b0a8adc823919ca237380df1f4528bd864f43/locale/Heimatland_Die_Furt.png)
 
 
 ### Saladin and Hyena
-Saladin: Tier 4 Lord
-Hyena: Tier 3 Lord
-Homeland: The Hills *(Die Hügel)*
-[!Image](https://raw.githubusercontent.com/CrusaderPilaw/extension-Legends-of-the-Orient/4f4b0a8adc823919ca237380df1f4528bd864f43/locale/Heimatland_Die_H%C3%BCgel.png)
+Saladin: Tier 4 Lord  
+Hyena: Tier 3 Lord  
+Homeland: The Hills *(Die Hügel)*  
+![Image](https://raw.githubusercontent.com/CrusaderPilaw/extension-Legends-of-the-Orient/4f4b0a8adc823919ca237380df1f4528bd864f43/locale/Heimatland_Die_H%C3%BCgel.png)

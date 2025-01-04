@@ -978,7 +978,7 @@ config-sparse:
         u_spearmen_run:
           enabled:
             contents:
-              suggested-value: true
+              suggested-value: false
         o_fix_map_sending:
           enabled:
             contents:
@@ -1049,10 +1049,6 @@ config-sparse:
             contents:
               suggested-value: true
         o_gamespeed:
-          enabled:
-            contents:
-              suggested-value: true
-        o_keys:
           enabled:
             contents:
               suggested-value: true

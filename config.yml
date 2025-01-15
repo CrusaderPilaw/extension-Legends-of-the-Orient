@@ -1084,8 +1084,14 @@ config-sparse:
             minorComputerAdvantage:
               human:
                 contents:
+                  suggested-value: 2000
+              computer:
+                contents:
                   suggested-value: 4000
             majorComputerAdvantage:
+              human:
+                contents:
+                  suggested-value: 2000
               computer:
                 contents:
                   suggested-value: 8000
@@ -1096,7 +1102,7 @@ config-sparse:
                   suggested-value: 8000
               computer:
                 contents:
-                  suggested-value: 4000
+                  suggested-value: 2000
             minorHumanAdvantage:
               human:
                 contents:
@@ -1162,13 +1168,50 @@ config-sparse:
                 contents:
                   suggested-value: 40000
         startGoods:
-          deathmatch:
+          normal:
             wood:
               contents:
                 suggested-value: 100
             stone:
               contents:
                 suggested-value: 50
+            iron:
+              contents:
+                suggested-value: 0
+            hop:
+              contents:
+                suggested-value: 0
+            pitch:
+              contents:
+                suggested-value: 0
+            wheat:
+              contents:
+                suggested-value: 0
+            bread:
+              contents:
+                suggested-value: 15
+            fruit:
+              contents:
+                suggested-value: 15
+            beer:
+              contents:
+                suggested-value: 0
+            flour:
+              contents:
+                suggested-value: 0
+            cheese:
+              contents:
+                suggested-value: 15
+            meat:
+              contents:
+                suggested-value: 15
+          crusader:
+            wood:
+              contents:
+                suggested-value: 100
+            stone:
+              contents:
+                suggested-value: 70
             iron:
               contents:
                 suggested-value: 10
@@ -1183,10 +1226,85 @@ config-sparse:
                 suggested-value: 0
             bread:
               contents:
-                suggested-value: 60
+                suggested-value: 15
             beer:
               contents:
                 suggested-value: 0
+            flour:
+              contents:
+                suggested-value: 0
+            fruit:
+              contents:
+                suggested-value: 15
+            cheese:
+              contents:
+                suggested-value: 15
+            meat:
+              contents:
+                suggested-value: 15
+          deathmatch:
+            wood:
+              contents:
+                suggested-value: 150
+            stone:
+              contents:
+                suggested-value: 50
+            iron:
+              contents:
+                suggested-value: 0
+            hop:
+              contents:
+                suggested-value: 10
+            pitch:
+              contents:
+                suggested-value: 0
+            wheat:
+              contents:
+                suggested-value: 10
+            bread:
+              contents:
+                suggested-value: 50
+            cheese:
+              contents:
+                suggested-value: 50
+            meat:
+              contents:
+                suggested-value: 50
+            fruit:
+              contents:
+                suggested-value: 50
+            beer:
+              contents:
+                suggested-value: 10
+            flour:
+              contents:
+                suggested-value: 10
+        startTroops:
+          crusader:
+            crusader:
+              EuropArcher:
+                contents:
+                  suggested-value: 5
+              Swordsman:
+                contents:
+                  suggested-value: 0
+              Knight:
+                contents:
+                  suggested-value: 0
+              Spearman:
+                contents:
+                  suggested-value: 7
+          arabian:
+            crusader:
+              ArabArcher:
+                contents:
+                  suggested-value: 6
+              ArabSwordsman:
+                contents:
+                  suggested-value: 0
+              Slave:
+                contents:
+                  suggested-value: 7
     maploader:
       config:
         extra-map-directory:

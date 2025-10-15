@@ -1,5 +1,18 @@
 config-sparse:
   modules:
+    ai-ox-tethers:
+      config:
+        oxtethers:
+          enabled:
+            contents:
+              suggested-value: true        
+    custom-skirmish-trails:
+      config:
+        extremetrail:
+          csv:
+            path:
+              contents:
+                suggested-value: ucp/plugins/Legends-Of-The-Orient/resources/trails/template_Legendary_Trail_1.0.csv
     running-units:
       config:
         macemen:
@@ -834,6 +847,18 @@ config-sparse:
                   active: true
     ucp2-legacy:
       config:
+        ai_tethers:
+          enabled:
+            contents:
+              suggested-value: false
+        o_fast_placing:
+          enabled:
+            contents:
+              suggested-value: false
+        o_keys:
+          enabled:
+            contents:
+              suggested-value: true
         ai_access:
           enabled:
             contents:
@@ -863,10 +888,6 @@ config-sparse:
             contents:
               suggested-value: true
         ai_rebuild:
-          enabled:
-            contents:
-              suggested-value: true
-        ai_tethers:
           enabled:
             contents:
               suggested-value: true
@@ -1032,10 +1053,6 @@ config-sparse:
             contents:
               suggested-value: true
         o_armory_marketplace_weapon_order_fix:
-          enabled:
-            contents:
-              suggested-value: true
-        o_fast_placing:
           enabled:
             contents:
               suggested-value: true

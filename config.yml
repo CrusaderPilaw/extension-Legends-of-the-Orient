@@ -12,7 +12,7 @@ config-sparse:
           csv:
             path:
               contents:
-                suggested-value: ucp/plugins/Legends-Of-The-Orient/resources/trails/template_Legendary_Trail_1.1.csv
+                suggested-value: ucp/plugins/Legends-Of-The-Orient/resources/trails/template_Legendary_Trail_1.2.csv
     running-units:
       config:
         macemen:

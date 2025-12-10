@@ -91,7 +91,7 @@ Homeland: The Hills *(Die Hügel)*
 
 # Legendary Trail
 ### Twenty new missions, twenty new challenges
-![Image](https://github.com/CrusaderPilaw/extension-Legends-of-the-Orient/blob/main/locale/Legendary_Trail.png?raw=true)
+![Image](https://raw.githubusercontent.com/CrusaderPilaw/extension-Legends-of-the-Orient/refs/heads/main/locale/Legendary_Trail.png)
 This is the centrepiece of my modpack, providing what is and always has been the core of the game: a series of skirmish missions, advancing in difficulty, challenging your abilities to manage your castle as well as the hostile land surrounding it.
 The trail makes use of the 'custom skirmish trail' module, providing new features und functions that allow for story telling and derived restrictions for recruitment, production and trade. These missions don't simply get harder due to more enemy AIs with more gold. Everything matters: Your position on the map, the resources you have access to and are able to buy or sell, the technologies at hand and... some unique little details and mechanics that may make for some interesting side quests - or uncomfortable surprises.
 
